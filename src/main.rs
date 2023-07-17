@@ -1,4 +1,4 @@
-mod guess;
+mod rand_generate;
 fn main() {
-    guess::guess_1();
+    rand_generate::generate();
 }
