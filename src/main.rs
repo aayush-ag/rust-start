@@ -1,4 +1,4 @@
 mod variable;
 fn main() {
-    variable::num1();
+    variable::num2();
 }
