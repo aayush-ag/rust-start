@@ -1,4 +1,4 @@
-mod rand_generate;
+mod variable;
 fn main() {
-    rand_generate::generate();
+    variable::num1();
 }
