@@ -1,4 +1,4 @@
 mod variable;
 fn main() {
-    variable::char_1();
+    variable::char_2();
 }
