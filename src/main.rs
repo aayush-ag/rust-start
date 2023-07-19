@@ -1,4 +1,4 @@
-mod variable;
+mod tuple;
 fn main() {
-    variable::char_2();
+    tuple::tuple1();
 }
