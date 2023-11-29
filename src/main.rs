@@ -1,4 +1,4 @@
-mod tuple;
+mod enum_mod;
 fn main() {
-    tuple::struct2();
+    enum_mod::enums();
 }
