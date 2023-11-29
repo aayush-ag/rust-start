@@ -1,4 +1,4 @@
-mod enum_mod;
+mod exercise7;
 fn main() {
-    enum_mod::enums();
+    exercise7::exc();
 }
